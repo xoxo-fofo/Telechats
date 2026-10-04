@@ -1,0 +1,9 @@
+{
+  "name": "TeleChats",
+  "description": "Topic-driven community Telegram client and Android Webview app with MTProto bridging, hierarchical slash-path rooms, WebRTC voice streaming, and CI/CD APK pipelines.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
